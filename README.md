@@ -12,5 +12,7 @@ Let’s first inspect the database behind the game. Below, you will find the mod
 For the application’s purposes, we need three tables. The game table stores game details, the move table contains 
 a list of all player moves for each particular game, and the player table stores all the player-specific data.
 The different API that we have, and we will need to consume from the front-end are :
+
+
  ![image](https://user-images.githubusercontent.com/34302775/161745395-be1dd0f5-142b-4f4c-a4ec-a9ee2d4f54f1.png)
 
